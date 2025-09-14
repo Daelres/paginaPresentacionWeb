@@ -59,7 +59,7 @@
                     <div class="card-body p-4 p-md-5">
                         <h2 class="h4 mb-4">Secciones</h2>
 
-                        <div class="accordion" id="accordionBibliografia">
+                        <div class="accordion">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingNombre">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNombre" aria-expanded="true" aria-controls="collapseNombre">
@@ -73,6 +73,25 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div class="accordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingNombre">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNombre" aria-expanded="true" aria-controls="collapseNombre">
+                                        Lugar de nacimiento
+                                    </button>
+                                </h2>
+                                <div id="collapseNombre" class="accordion-collapse collapse show" aria-labelledby="headingNombre" data-bs-parent="#accordionBibliografia">
+                                    <div class="accordion-body">
+                                        <p class="mb-0 fs-5">Lugar de nacimiento:</p>
+                                        <small class="text-muted">Nací en Bucaramanga, Santander</small>
+                                        <small class="text-muted">El nombre de mi Mamá es Sandra Milena Restrepo Herrera</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
 
                         <hr class="my-5">
                         <p class="text-secondary mb-0">Próximamente podrás agregar más secciones (Educación, Experiencia, Publicaciones, Contacto) como elementos adicionales del acordeón.</p>
