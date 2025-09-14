@@ -170,6 +170,25 @@
                             </div>
                         </div>
 
+                        <div class="accordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingNombre">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNombre" aria-expanded="true" aria-controls="collapseNombre">
+                                        Primera experiencia
+                                    </button>
+                                </h2>
+                                <div id="collapseNombre" class="accordion-collapse collapse show" aria-labelledby="headingNombre" data-bs-parent="#accordionBibliografia">
+                                    <div class="accordion-body">
+                                        <p class="mb-0 fs-5">Primera experiencia:</p>
+                                        <small class="text-muted">Mi primera experiencia laboral fue como asistence administrativo
+                                            redactando documentos, ingreso y seguimiento de información contable y de las actividades
+                                            realizadas por las diferentes áreas
+                                        </small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <hr class="my-5">
                         <p class="text-secondary mb-0">Próximamente podrás agregar más secciones (Educación, Experiencia, Publicaciones, Contacto) como elementos adicionales del acordeón.</p>
                     </div>
