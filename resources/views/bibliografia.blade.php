@@ -170,6 +170,26 @@
                             </div>
                         </div>
 
+                        <div class="accordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingNombre">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNombre" aria-expanded="true" aria-controls="collapseNombre">
+                                        Aspiraciones
+                                    </button>
+                                </h2>
+                                <div id="collapseNombre" class="accordion-collapse collapse show" aria-labelledby="headingNombre" data-bs-parent="#accordionBibliografia">
+                                    <div class="accordion-body">
+                                        <p class="mb-0 fs-5">Actualmente:</p>
+                                        <small class="text-muted">Las aspiraciones o metas que tengo es en primer lugar terminar
+                                            la carrera profesional, poder trabajar en alguna empresa multinacional para adquirir experiencia,
+                                            realizar especializaciones y posgrados para adquirir mayor conocimiento y continuar con
+                                            el crecimiento de mi empresa para llegar a clientes internacionales.
+                                        </small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <hr class="my-5">
                         <p class="text-secondary mb-0">Próximamente podrás agregar más secciones (Educación, Experiencia, Publicaciones, Contacto) como elementos adicionales del acordeón.</p>
                     </div>
