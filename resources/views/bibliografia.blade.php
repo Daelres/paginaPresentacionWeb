@@ -170,6 +170,25 @@
                             </div>
                         </div>
 
+                        <div class="accordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingNombre">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNombre" aria-expanded="true" aria-controls="collapseNombre">
+                                        Habilidad 1
+                                    </button>
+                                </h2>
+                                <div id="collapseNombre" class="accordion-collapse collapse show" aria-labelledby="headingNombre" data-bs-parent="#accordionBibliografia">
+                                    <div class="accordion-body">
+                                        <p class="mb-0 fs-5">Habilidad 1:</p>
+                                        <small class="text-muted">Una de mis habilidades es entender nuevos temas o abstraer conceptios
+                                            nuevos rapidamente cuando me los presentan por primera vez, permitiendo aplicarlos
+                                            en el contexto laboral o academico y sacar provecho de este nuevo aprendizaje
+                                        </small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <hr class="my-5">
                         <p class="text-secondary mb-0">Próximamente podrás agregar más secciones (Educación, Experiencia, Publicaciones, Contacto) como elementos adicionales del acordeón.</p>
                     </div>
