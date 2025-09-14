@@ -91,7 +91,25 @@
                             </div>
                         </div>
 
-
+                        <div class="accordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingNombre">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNombre" aria-expanded="true" aria-controls="collapseNombre">
+                                        Niñez
+                                    </button>
+                                </h2>
+                                <div id="collapseNombre" class="accordion-collapse collapse show" aria-labelledby="headingNombre" data-bs-parent="#accordionBibliografia">
+                                    <div class="accordion-body">
+                                        <p class="mb-0 fs-5">Narración de tu niñez:</p>
+                                        <small class="text-muted">
+                                        Nací el 3 de marzo de 2005, estudié en el Colegio San Pedro Clave de Bucaramanga.
+                                        Durante mi niñez siempre me interesó la electronica y robótica y me interesé en
+                                        el hardware. Durante estos años armé mi primer computador y ayudaba a mis compaeros o familiares
+                                        con temas de configuración.</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                         <hr class="my-5">
                         <p class="text-secondary mb-0">Próximamente podrás agregar más secciones (Educación, Experiencia, Publicaciones, Contacto) como elementos adicionales del acordeón.</p>
