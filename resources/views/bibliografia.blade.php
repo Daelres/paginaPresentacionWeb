@@ -135,7 +135,7 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingNombre">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNombre" aria-expanded="true" aria-controls="collapseNombre">
-                                        Niñez
+                                        Adolescencia
                                     </button>
                                 </h2>
                                 <div id="collapseNombre" class="accordion-collapse collapse show" aria-labelledby="headingNombre" data-bs-parent="#accordionBibliografia">
@@ -145,6 +145,26 @@
                                         y descrubrí que tenia un mayor gusto por el software interesandome más en los sistemas
                                         programación y demás, empezando a estudiar ing. de sistemas en la unab en 2023 en el segundo
                                         semenstre.</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingNombre">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNombre" aria-expanded="true" aria-controls="collapseNombre">
+                                        Actualmente
+                                    </button>
+                                </h2>
+                                <div id="collapseNombre" class="accordion-collapse collapse show" aria-labelledby="headingNombre" data-bs-parent="#accordionBibliografia">
+                                    <div class="accordion-body">
+                                        <p class="mb-0 fs-5">Actualmente:</p>
+                                        <small class="text-muted">En la actualidad me encuentro cursando el quinto semestre de
+                                        ing. de sistemas, al timepo que hago correa simultanea con ing. industrial, trabajo en una
+                                        empresa de desarrollo de software a la medida en la cual cumplo rol de tester
+                                        o en ocasiones haciendo cambios o correcciones menores a los desarrollos realizados.
+                                        </small>
                                     </div>
                                 </div>
                             </div>
